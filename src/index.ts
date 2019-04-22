@@ -11,8 +11,8 @@ export default function hashValue(source: string, options: any[]) {
     return null;
   }
 
-  for (let i = 0; i < this.length; i++) {
-    hash = this.charCodeAt(i) + ((hash << 5) - hash);
+  for (let i = 0; i < source.length; i++) {
+    hash = source.charCodeAt(i) + ((hash << 5) - hash);
     hash = hash & hash;
   }
 

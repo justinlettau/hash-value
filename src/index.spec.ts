@@ -6,8 +6,8 @@ describe('hashValue method', () => {
   it('return same value every time', () => {
     const result = hashValue('Luke Skywalker', options);
 
-    for (let i = 0; i < 10; i++) {
-      expect(result).toEqual('a');
+    for (let i = 0; i < 100; i++) {
+      expect(result).toEqual('f');
     }
   });
 });

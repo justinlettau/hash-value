@@ -34,7 +34,7 @@ const colors = [
 ];
 
 hashValue('Luke Skywalker', colors)
-// => #1abc9c
+// => #3498db
 ```
 
 # Example
