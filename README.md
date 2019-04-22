@@ -46,7 +46,14 @@ import Avatar from '@material-ui/core/Avatar';
 import { blue, green, orange, purple, red, teal } from '@material-ui/core/colors';
 import hashValue from 'hash-value';
 
-const colors = [blue[500], green[500], orange[500], purple[500], red[500], teal[500]];
+const colors = [
+  blue[500],
+  green[500],
+  orange[500],
+  purple[500],
+  red[500],
+  teal[500]
+];
 
 function ColorAvatar(props) {
   const { name } = props;
