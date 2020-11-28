@@ -1,5 +1,5 @@
 [![NPM Version](https://badge.fury.io/js/hash-value.svg)](https://badge.fury.io/js/hash-value)
-[![Build Status](https://travis-ci.org/justinlettau/hash-value.svg?branch=master)](https://travis-ci.org/justinlettau/hash-value)
+[![CI](https://github.com/justinlettau/hash-value/workflows/CI/badge.svg)](https://github.com/justinlettau/hash-value/actions)
 [![Dev Dependency Status](https://david-dm.org/justinlettau/hash-value/dev-status.svg)](https://david-dm.org/justinlettau/hash-value?type=dev)
 
 # Hash Value
