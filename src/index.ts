@@ -4,7 +4,7 @@
  * @param source String to hash.
  * @param options Collection of options to get value from.
  */
-export default function hashValue(source: string, options: any[]) {
+export default function hashValue(source: string, options: unknown[]) {
   let hash = 0;
 
   if (source.length === 0 || options.length === 0) {

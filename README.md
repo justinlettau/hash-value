@@ -3,9 +3,11 @@
 [![Dev Dependency Status](https://david-dm.org/justinlettau/hash-value/dev-status.svg)](https://david-dm.org/justinlettau/hash-value?type=dev)
 
 # Hash Value
+
 Get a consistent value from an array based on a string value.
 
 # Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
@@ -13,11 +15,13 @@ Get a consistent value from an array based on a string value.
 - [Development](#development)
 
 # Installation
+
 ```bash
 npm install hash-value --save
 ```
 
 # Usage
+
 ```js
 import hashValue from 'hash-value';
 
@@ -30,10 +34,10 @@ const colors = [
   '#34495e', // Wetasphalt
   '#f1c40f', // Sunflower
   '#e67e22', // Carrot
-  '#e74c3c'  // Alizarin
+  '#e74c3c', // Alizarin
 ];
 
-hashValue('Luke Skywalker', colors)
+hashValue('Luke Skywalker', colors);
 // => #3498db
 ```
 
@@ -43,7 +47,14 @@ hashValue('Luke Skywalker', colors)
 
 ```js
 import Avatar from '@material-ui/core/Avatar';
-import { blue, green, orange, purple, red, teal } from '@material-ui/core/colors';
+import {
+  blue,
+  green,
+  orange,
+  purple,
+  red,
+  teal,
+} from '@material-ui/core/colors';
 import hashValue from 'hash-value';
 
 const colors = [
@@ -52,7 +63,7 @@ const colors = [
   orange[500],
   purple[500],
   red[500],
-  teal[500]
+  teal[500],
 ];
 
 function ColorAvatar(props) {
@@ -64,6 +75,7 @@ function ColorAvatar(props) {
 ```
 
 # Development
+
 ```
 npm install
 npm run build
