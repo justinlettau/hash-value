@@ -1,7 +1,7 @@
 {
   "name": "hash-value",
   "description": "Get a consistent value from an array based on a string value.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "hash",
     "string",
