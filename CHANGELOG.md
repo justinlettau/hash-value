@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/justinlettau/hash-value/compare/v1.0.3...v1.1.0) (2021-07-30)
+
+
+### Features
+
+* improve typescript definition ([#28](https://github.com/justinlettau/hash-value/issues/28)) ([2e33b3a](https://github.com/justinlettau/hash-value/commit/2e33b3ac79d0e3d296dd58c473e87f4634dc27e5))
+
 ### [1.0.3](https://github.com/justinlettau/hash-value/compare/v1.0.2...v1.0.3) (2020-11-28)
 
 ## [1.0.2](https://github.com/justinlettau/hash-value/compare/v1.0.1...v1.0.2) (2019-04-22)
