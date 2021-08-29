@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/justinlettau/hash-value/compare/v1.1.0...v1.2.0) (2021-08-29)
+
+
+### Features
+
+* output esm ([f41dda1](https://github.com/justinlettau/hash-value/commit/f41dda1f401fbdbb6739fbed8929a60538215bac))
+
 ## [1.1.0](https://github.com/justinlettau/hash-value/compare/v1.0.3...v1.1.0) (2021-07-30)
 
 
