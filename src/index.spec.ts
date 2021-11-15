@@ -1,4 +1,4 @@
-import hashValue from '.';
+import hashValue from './index';
 
 const options = ['a', 'b', 'c', 'd', 'e', 'f', 'g'];
 
