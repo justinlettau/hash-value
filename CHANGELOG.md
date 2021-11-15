@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/justinlettau/hash-value/compare/v2.0.0...v2.0.1) (2021-11-15)
+
+
+### Bug Fixes
+
+* package type ([af9102b](https://github.com/justinlettau/hash-value/commit/af9102b0e5336c931913a97c4963ad70bd851b52))
+
 ## [2.0.0](https://github.com/justinlettau/hash-value/compare/v1.2.1...v2.0.0) (2021-10-28)
 
 
