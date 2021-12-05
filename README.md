@@ -1,6 +1,7 @@
 [![NPM Version](https://badge.fury.io/js/hash-value.svg)](https://badge.fury.io/js/hash-value)
 [![CI](https://github.com/justinlettau/hash-value/workflows/CI/badge.svg)](https://github.com/justinlettau/hash-value/actions)
-[![Dev Dependency Status](https://david-dm.org/justinlettau/hash-value/dev-status.svg)](https://david-dm.org/justinlettau/hash-value?type=dev)
+[![codecov](https://codecov.io/gh/justinlettau/hash-value/branch/master/graph/badge.svg?token=mKNrIeh3mX)](https://codecov.io/gh/justinlettau/hash-value)
+
 
 # Hash Value
 
