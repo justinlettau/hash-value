@@ -6,7 +6,6 @@
     "moduleResolution": "node",
     "noImplicitAny": true,
     "outDir": "dist",
-    "sourceMap": true,
     "target": "ES2019"
   },
   "include": ["src/**/*.ts"],
